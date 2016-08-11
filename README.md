@@ -13,3 +13,5 @@ Description
 
 Buscayasminas is an open source "Minesweeper" alike game totally written in DHTML (JavaScript, CSS and HTML) that uses mouse and keyboard optionally.
 This cross-platform and cross-browser game was tested under BeOS, Linux, NetBSD, OpenBSD, FreeBSD, Windows and others.
+
+Official web site: http://buscayasminas.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/buscayasminas/).
