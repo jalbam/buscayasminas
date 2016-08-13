@@ -5,7 +5,7 @@ by Joan Alba Maldonado (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, withou
 Minesweeper alike game totally written in DHTML.
 
 Version: 0.30a 
-Date: 9th August 2006, last changes beyond 17th August 2006 (approximately).
+- Date: 9th August 2006, last changes beyond 17th August 2006 (approximately).
 
 You can donate at http://sourceforge.net/donate/index.php?group_id=174564
 
