@@ -1,9 +1,10 @@
-Buscayasminas
-============== by Joan Alba Maldonado (granvino@granvino.com)
+Buscayasminas 
+============== 
+by Joan Alba Maldonado (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, without NO_SPAM_PLEASE)
 
 Minesweeper alike game totally written in DHTML.
 
-Version: 0.30a
+Version: 0.30a 
 Date: 9th August 2006, last changes beyond 17th August 2006 (approximately).
 
 You can donate at http://sourceforge.net/donate/index.php?group_id=174564
