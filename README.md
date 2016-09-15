@@ -10,6 +10,9 @@ Version: 0.30a
 You can donate at http://sourceforge.net/donate/index.php?group_id=174564
 
 
+![ScreenShot](screenshot.gif)
+
+
 Description
 
 Open source Minesweeper game (configurable) totally written in DHTML (HTML, CSS and JavaScript).
