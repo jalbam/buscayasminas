@@ -13,7 +13,7 @@ You can donate at http://sourceforge.net/donate/index.php?group_id=174564
 ![ScreenShot](screenshot.gif)
 
 
-Description
+## Description
 
 Open source Minesweeper game (configurable) totally written in DHTML (HTML, CSS and JavaScript).
 
@@ -29,5 +29,12 @@ You can find other modified and adapted versions of this game on the Internet, i
 
 This game has been tested under BeOS, Linux, NetBSD, OpenBSD, FreeBSD, Windows, Mac OS X, BlackBerry Tablet OS, Android, iOS and others.
 
+Play online in English: http://buscayasminas.tuxfamily.org/buscayasminas_english/
+
+Play online in English (mirror): http://www.dhtmlgames.com/buscayasminas/buscayasminas_english/
+
+Play online in Spanish: http://buscayasminas.tuxfamily.org/buscayasminas_spanish/
+
+Play online in Spanish (mirror): http://www.dhtmlgames.com/buscayasminas/buscayasminas_spanish/
 
 Official web site: http://buscayasminas.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/buscayasminas/).
